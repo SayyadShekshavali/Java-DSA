@@ -1,9 +1,9 @@
 public class Stack {
+
     //*  Node creation
     static class Node {
         int data;
         Node next;
-
         public Node(int data) {
             this.data = data;
             this.next = null;
@@ -12,6 +12,7 @@ public class Stack {
 
     //*  Stack head assingment
     static class Stack1 {
+        
         public static Node head;
 
         //*  Check  is empty
