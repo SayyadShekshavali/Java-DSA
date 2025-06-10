@@ -1,14 +1,12 @@
 
-
-
-
-
 public class LL {
     Node head;
     private int size;
+    
     LL(){
         this.size=0;
     }
+
     class Node{
         String data;
         Node next;
