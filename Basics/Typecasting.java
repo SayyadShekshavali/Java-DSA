@@ -8,7 +8,7 @@ public class Typecasting {
      System.out.println(Byte);
      System.out.println(myDouble);
         
-     //*Narrow casting: manually by placing the type in parentheses () in front of the value  */
+     //*Narrow casting: manually by placing the type in parentheses () in front of the value *///
 
      double myDouble1=88.90372;
      int intergers=(int) myDouble1;
